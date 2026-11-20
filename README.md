@@ -1,3 +1,5 @@
+> **Note:** This repository was migrated from my old GitHub account and may need adjustment (e.g. credentials, secrets, variables, CI/CD settings, hardcoded paths or endpoints) before it can be used.
+
 # alicloud-ecs
 This is an experimental terraform module for creating 6 different alicloud ecs instance
 
